@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}

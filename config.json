@@ -1,0 +1,4 @@
+{
+  "uploadUrl": "localhost:3000/api/upload",
+  "sourceRes": "1080p"
+}
